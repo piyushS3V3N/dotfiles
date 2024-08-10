@@ -25,7 +25,7 @@ return {
     })
 
     -- setup must be called before loading
-    vim.cmd("colorscheme kanagawa")
+    vim.cmd("colorscheme retrobox")
     -- local bg = "#011628"
     -- local bg_dark = "#011423"
     -- local bg_highlight = "#143652"
